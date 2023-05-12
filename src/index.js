@@ -13,7 +13,7 @@ function tick() {
   );
 }
 
-setInterval(tick, 1000);
+setInterval(tick, 1000000);
 tick();
 
 reportWebVitals();
